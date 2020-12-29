@@ -90,7 +90,6 @@ export const pageQuery = graphql`
       designation
       age
       facebook
-      github
       gmail
       id
       instagram
